@@ -1,4 +1,4 @@
-# _NIX-Dev
+# _nix-Dev
 
 Repository for various Linux based developments
 
